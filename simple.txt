@@ -10,4 +10,7 @@ If you’re on a Debian-based distribution, such as Ubuntu, try apt:
 $ sudo apt install git-all
 
 For more options, there are instructions for installing on several different Unix distributions on the Git website, at https://git-scm.com/download/linux.
+Installing from Source
+
+Some people may instead find it useful to install Git from source, because you’ll get the most recent version. The binary installers tend to be a bit behind, though as Git has matured in recent years, this has made less of a difference.
 
