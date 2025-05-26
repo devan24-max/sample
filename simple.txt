@@ -17,4 +17,3 @@ Some people may instead find it useful to install Git from source, because youâ€
 This is the master branch data, second commit in master branch
 
 This is the feature-branch data, the first commit in feature branch
-
